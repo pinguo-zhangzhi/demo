@@ -1,0 +1,8 @@
+{
+  "name": "reflux-demo",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "reflux": "~0.2.7"
+  }
+}
